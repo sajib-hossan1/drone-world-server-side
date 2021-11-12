@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "name" : "DJI Air 2S",
+        "price" : "999",
+        "details" : "Non-camera devices with cameras on them, such as drones, tend to be held back by having annoyingly small sensors. So congratulations are due to DJI for sticking a 1-inch sensor in the DJI Air 2S, providing a significant upgrade in image quality and dynamic range compared to a lot of other drones on the market. They’ve done it before, with the larger Mavic 2 Pro, but this is – theoretically – a step down the range. We’re not so sure.The Air 2S is much more compact than that drone, or any other drone with a 1-inch sensor (sit it next to a Phantom 4 for a real comparison). The DJI Intelligence systems are also coming on apace, with Active Track and avoidance sensors giving the drone more nuanced control than ever over its own trajectory. It’s a huge achievement how much fits into this drone’s slim, redesigned chassis.",
+        "image" : "https://i.ibb.co/7zYS0X6/1.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "DJI Mavic 2 Zoom",
+        "price" : "1299",
+        "details" : "There are plenty of fantastic DJI camera drones we could have chosen for our number-one spot, but we’ve plumped for the DJI Mavic 2 Zoom. You’ll see more DJI drones throughout this list with different advantages and disadvantages, so why does this one grab the honour of being our top pick?The key advantage of the Zoom, as you might have guessed, is the fat that it sports a zoom lens. And not just any zoom lens – a x optical zoom with an effective focal range of 24-48mm. Just as the original Mavic Pro redefined what was thought possible with camera drones, so does the Zoom shake up the landscape again by providing real compositional versatility and the ability to shift perspectives. It also has a cool ace up its sleeve – the Dolly Zoom Quickshot, which simulates a Hitchcockian camera movement to awesome effect.",
+        "image" : "https://i.ibb.co/Jq5JbfG/2.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "DJI Mini SE",
+        "price" : "799",
+        "details" : "The best way to think of the DJI Mini SE in terms of quality is as a flying smartphone camera from a mid-range device. That, though, is a high standard these days, certainly far higher than toy drones and their shaky video because this drone can hover perfectly thanks to its onboard sensors and has a 3-axis mechanical stabilizer for its camera.Tech enthusiasts might feel that the 2.7K video resolution isn’t enough for them, but family members (and anyone watching socially shared versions) would be hard pressed to spot the difference against 4K. The drone also scrapes in beneath the 250g registration barrier and has a much more welcoming entry price than anything else DJI offers, making it a perfect gift. Software-wise the app is intuitive and includes auto land, return to home and some cool orbiting effects which will be sure to earn likes.",
+        "image" : "https://i.ibb.co/y0Pyd06/3.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Autel EVO II",
+        "price" : "1499",
+        "details" : "Like the Mavic 2, Autel’s second EVO is offered with different camera choices, in theory at least (supply has been erratic in its early months, but then 2020 hasn’t been an easy year). Both are built around a heavy, rugged-looking (but average feeling) orange airframe which eschews sleek consumer-friendly design for simple practicality. It’s a bit chunkier than the Mavics, but it can fly for longer and is bigger unfolded).While Autel Explorer, it’s partner app, lacks some of the polish of DJI’s equivalents, it does bring all the tracking options you might want. Moreover it has the huge advantage of being optional: there is a 3.3-inch OLED screen in the remote meaning you can fly without connecting the phone at all. Another big plus is that the drone has omnidirectional collision sensors which it uses in normal fight (the Mavic 2 has side-sensors, but only uses them in some automatic modes). Intended for professional work, the drone also lacks DJI’s big-brother geofencing.",
+        "image" : "https://i.ibb.co/Jk8QJZn/4.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "DJI Mavic 2 Pro",
+        "price" : "2000",
+        "details" : "2020 saw the arrival of the Mavic Air 2 with a host of improvements to the Mavic line which make the Mavic 2 Pro more of a speciality aircraft than before, but whichever way you look at it the stills and, in lower light, the video remain unbeaten (without spending a good amount more and throwing portability out of the window).Given DJI’s ownership of Hasselblad the camera branding might be seen as a gimmick, the 20 megapixel stills from the 1-inch sensor are unquestionably far better quality than those from smaller sensors (including the Mavic 2 Zoom). Manual controls allow up to 128,000 ISO to be selected and video can be output in real 10-bit (great for pro colour grading) and in HDR, and there is a ƒ/2.8-ƒ/11 aperture.",
+        "image" : "https://i.ibb.co/qJPZhrL/5.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "PowerVision X Wizard/Basic",
+        "price" : "1000",
+        "details" : "PowerVision is certainly an inventive company – as its awards shelf will testament. It has been making underwater drones as long as flying ones, but the PowerEgg X is a white egg which can be used as a drone, a hand-held or tripod-mounted camcorder making use of the gimbal for stability and A.I. for subject tracking, and – in the optional ‘Wizard’ kit – a beach-ready drone which can land on water or fly in the rain.Photographers will rightly worry that the 4K camera doesn’t have as bigger sensor as, for example, the Mavic Pro, but in good light it’s capable of 60fps – double the frame-rate of the DJI, making it great for action. It’s adaptability means it’s arms are completely removable but, thanks to the folding props, setup takes no longer than a DJI Phantom. The A.I. camera mode is good, but it would really benefit from a ‘record’ button like a traditional camcorder – you need to use the app. ",
+        "image" : "https://i.ibb.co/tPpRhwp/6.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "DJI Mini 2",
+        "price" : "499",
+        "details" : "DJI defined compact quality camera drones as something which could appeal to and be understood by everyday consumers with the Mavic in 2016, but price and, more recently, weight limits kept some consumers away. Drones over 250g (or operating them) now require registration and a small fee in most countries. The Mavic Mini solved the weight issue in 2019, but the latest Mini 2 has taken that already miraculous design and souped it up so it can now attract more serious users too.The airframe is stunningly light, yet is also the charger (via the USB-C socket at the back) so that’s one less thing when traveling light. It feels strong, and the camera is mounted on a 3-axis gimbal that absorbs nearly all twists and turns in flight, and can be tilted smoothly. Control is simple, via the excellent new remote – the range is no longer a worry (unlike with the predecessor) and the controller’s battery can even top your phone up too.",
+        "image" : "https://i.ibb.co/gDQDHxB/7.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Parrot Anafi FPV",
+        "price" : "1099",
+        "details" : "Parrot wasn't really a contender in the high-end aerial video market until the Anafi arrived in mid-2018, but it was worth the wait. Rather than push up prices and weight with sensors of questionable use (and the processing power to handle their data), Parrot leave the business of avoiding obstacles very much to the customer. In exchange, though, it's managed to keep the portability and price manageable, helped by the fact a great hard-fabric zip case is included so you’ll be able to shoot just about anywhere.The carbon-fiber elements of the body can feel a little cheap, but in reality this is one of the best built frames on the market, and very easy to operate thanks to automatic take-off, landing, GPS-based return-to-home, and an exceptionally well-built folding controller with a hinged phone-grip, one that seems so much easier to operate, and so much more logical, than recent contenders from DJI. ",
+        "image" : "https://i.ibb.co/2FSTTCy/8.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "DJI Mavic Air 2",
+        "price" : "1099",
+        "details" : "The new DJI Mavic Air 2 is a stunning technical achievement, an incredibly capable drone that – for most people – might look like the only flying camera they’d ever need. With front, downward and rear-facing distance sensors, the drone is capable of identifying obstacles and not just warning the pilot, but also plotting a course to avoid, say, a wall or a tree if needed.This drone offers much longer flying time (an impressive 34 minutes) and better range than the original Mavic Air. But the real appeal to photographers and videographers is the new 4K 60fps camera, which packs a 48 megapixel half-inch sensor.This drone gets a completely redesigned controller, which we rather like – with your smartphone slotting in above the controllers, just like you would find on top-end drones.",
+        "image" : "https://i.ibb.co/2NvP601/9.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "DJI Phantom 4 Pro V2.0",
+        "price" : "2049",
+        "details" : "The Phantom was a revolutionary product, its earlier versions including the first drone to feature a gimbal-stabilized camera rather than requiring the user to supply their own. Its rugged body design means that while it’s no longer the obvious choice for beginners or consumers (for whom folding products offer at least the same practicality), there is a strong use-case for an occasional professional.If you’re going to be putting the drone in the back of your car, and don’t mind it taking up most of a specialist rucksack (rather than just a side pocket like the Mavic Air), then the Phantom Pro 4’s latest update is very tempting. Redesigned props for quieter flight are definitely pleasing, and the new OcuSync radio system that makes 1080p video possible on the monitors is a plus (though it won’t work with the older controllers).",
+        "image" : "https://i.ibb.co/LYWJKPm/10.jpg"
+    }
+]

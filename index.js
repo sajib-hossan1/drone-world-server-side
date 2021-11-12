@@ -19,7 +19,16 @@ const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology:
 async function run() {
     try {
         await client.connect();
-        console.log('data base connected');
+
+        const database = client.db("drone-world");
+        const productsCollection = database.collection("products")
+
+        app.get('/products', async (req,res) => {
+            const cursor = productsCollection.find({})
+            const products = await cursor.toArray();
+            res.send(products)
+        })
+
     }
     finally {
         // await client.close();
